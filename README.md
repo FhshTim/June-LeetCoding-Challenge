@@ -4,6 +4,8 @@
 [June LeetCoding Challenge - 3 Two City Scheduling](https://medium.com/@xyrot94/june-leetcoding-challenge-1029-two-city-scheduling-986fe3c99fda)  
 [June LeetCoding Challenge - 4 Reverse String](https://medium.com/@xyrot94/june-leetcoding-challenge-344-reverse-string-a4d507cc35bd)  
 [June LeetCoding Challenge - 5 Random Pick with Weight](https://medium.com/@xyrot94/june-leetcoding-challenge-528-random-pick-with-weight-ad1a228516d6)  
+[June LeetCoding Challenge - 6 Queue Reconstruction by Height](https://medium.com/@xyrot94/june-leetcoding-challenge-406-queue-reconstruction-by-height-3f35b976995b)  
+
 
 
 
