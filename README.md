@@ -8,6 +8,8 @@
 [June LeetCoding Challenge - 7 Coin Change 2](https://medium.com/@xyrot94/june-leetcoding-challenge-518-coin-change-2-924c2e34907e)  
 [June LeetCoding Challenge - 8 Power of Two](https://medium.com/@xyrot94/june-leetcoding-challenge-231-power-of-two-fb2a56157c53)  
 [June LeetCoding Challenge - 9 Is Subsequence](https://medium.com/@xyrot94/june-leetcoding-challenge-392-is-subsequence-cce19b435ab7)  
+[June LeetCoding Challenge - 10 Search Insert Position](https://medium.com/@xyrot94/june-leetcoding-challenge-35-search-insert-position-86f085230d59)  
+
 
 
 
