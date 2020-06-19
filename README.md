@@ -17,6 +17,8 @@
 [June LeetCoding Challenge - 16 Validate IP Address](https://medium.com/@xyrot94/june-leetcoding-challenge-468-validate-ip-address-19965181cf5f)  
 [June LeetCoding Challenge - 17 Surround Regions](https://medium.com/@xyrot94/june-leetcoding-challenge-130-surround-regions-80e908357734)  
 [June LeetCoding Challenge - 18 H-index II](https://medium.com/@xyrot94/june-leetcoding-challenge-275-h-index-ii-5bc95b0be676)  
+[June LeetCoding Challenge - 19 Longest Duplicate Substring](https://medium.com/@xyrot94/june-leetcoding-challenge-1044-longest-duplicate-substring-54ca5cfdc137)  
+
 
 
 
