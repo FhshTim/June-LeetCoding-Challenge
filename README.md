@@ -20,6 +20,8 @@
 [June LeetCoding Challenge - 19 Longest Duplicate Substring](https://medium.com/@xyrot94/june-leetcoding-challenge-1044-longest-duplicate-substring-54ca5cfdc137)  
 [June LeetCoding Challenge - 20 Permutation Sequence](https://medium.com/@xyrot94/june-leetcoding-challenge-60-permutation-sequence-a97e5367b09f)  
 [June LeetCoding Challenge - 21 Dungeon Game](https://medium.com/@xyrot94/june-leetcoding-challenge-174-dungeon-game-119f2ade919c)  
+[June LeetCoding Challenge - 22 Single Number II](https://medium.com/@xyrot94/june-leetcoding-challenge-137-single-number-ii-e2f448b06191)  
+
 
 
 
