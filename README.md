@@ -22,6 +22,8 @@
 [June LeetCoding Challenge - 21 Dungeon Game](https://medium.com/@xyrot94/june-leetcoding-challenge-174-dungeon-game-119f2ade919c)  
 [June LeetCoding Challenge - 22 Single Number II](https://medium.com/@xyrot94/june-leetcoding-challenge-137-single-number-ii-e2f448b06191)  
 [June LeetCoding Challenge - 23 Count Complete Tree Nodes](https://medium.com/@xyrot94/june-leetcoding-challenge-222-count-complete-tree-nodes-ddc75fe5183b)  
+[June LeetCoding Challenge - 24 Unique Binary Search Trees](https://medium.com/@xyrot94/june-leetcoding-challenge-96-unique-binary-search-trees-eb5c694e9fd0)  
+
 
 
 
