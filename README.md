@@ -25,6 +25,7 @@
 [June LeetCoding Challenge - 24 Unique Binary Search Trees](https://medium.com/@xyrot94/june-leetcoding-challenge-96-unique-binary-search-trees-eb5c694e9fd0)  
 [June LeetCoding Challenge - 25 Find the Duplicate Number](https://medium.com/@xyrot94/june-leetcoding-challenge-287-find-the-duplicate-number-193653746e00)  
 [June LeetCoding Challenge - 26 Sum Root to Leaf Numbers](https://medium.com/@xyrot94/june-leetcoding-challenge-129-sum-root-to-leaf-numbers-f55ce758267d)  
+[June LeetCoding Challenge - 27 Perfect Squares](https://medium.com/@xyrot94/june-leetcoding-challenge-279-perfect-squares-35b435b86270)  
 
 
 
