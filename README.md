@@ -27,6 +27,7 @@
 [June LeetCoding Challenge - 26 Sum Root to Leaf Numbers](https://medium.com/@xyrot94/june-leetcoding-challenge-129-sum-root-to-leaf-numbers-f55ce758267d)  
 [June LeetCoding Challenge - 27 Perfect Squares](https://medium.com/@xyrot94/june-leetcoding-challenge-279-perfect-squares-35b435b86270)  
 [June LeetCoding Challenge - 28 Reconstruct Itinerary](https://medium.com/@xyrot94/june-leetcoding-challenge-332-reconstruct-itinerary-b66c19776466)  
+[June LeetCoding Challenge - 29 Unique Paths](https://medium.com/@xyrot94/june-leetcoding-challenge-62-unique-paths-a68d4cdd0307)  
 
 
 
